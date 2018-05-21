@@ -1,0 +1,68 @@
+Faction Republic of the Free People
+ShipPaint			Silicon
+EnsignPaint			Green Z93
+EnsignName			CrescentAndStar
+IconColor
+	Hue_degrees		120
+	Saturation		1.
+	Value			1.
+	Alpha			1.
+
+Faction United Sol Trade Alliance
+ShipPaint			Titanium
+EnsignPaint			Blue Z93
+EnsignName			GearSunAndShield
+IconColor
+	Hue_degrees		240
+	Saturation		1.
+	Value			1.
+	Alpha			1.
+
+Faction Iroquois Resurgence
+ShipPaint			Graphite
+EnsignPaint			Purple Z93
+EnsignName			HiawathaBelt
+IconColor
+	Hue_degrees		260
+	Saturation		.49
+	Value			.86
+	Alpha			1.
+
+Faction The Liberty Exchange
+ShipPaint			Silicon
+EnsignPaint			Yellow Z93
+EnsignName			CreditAndOrbit
+IconColor
+	Hue_degrees		60
+	Saturation		1.
+	Value			1.
+	Alpha			1.
+
+Faction Rogue Faction
+ShipPaint			Silicon
+EnsignPaint			Green Z93
+IconColor
+	Hue_degrees		120
+	Saturation		1.
+	Value			1.
+	Alpha			1.
+
+Faction Republic Executive Branch
+ShipPaint			Silicon
+EnsignPaint			Yellow Z93
+EnsignName			CrescentAndStar
+IconColor
+	Hue_degrees		51
+	Saturation		1.
+	Value			1.
+	Alpha			1.
+
+Faction Nippon Prime
+ShipPaint			Iron
+EnsignPaint			Red Z93
+EnsignName			RadioactiveRisingSun
+IconColor
+	Hue_degrees		0
+	Saturation		1.
+	Value			1.
+	Alpha			1.

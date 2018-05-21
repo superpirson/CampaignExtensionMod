@@ -1,0 +1,20 @@
+"workshopitem"
+{
+	"appid"		"476530"
+	"publishedfileid"		"1389843586"
+	"contentfolder"		"/home/alex/SteamWorkshopAddons/CampaignExtensionMod/content/"
+	"previewfile"		"/home/alex/SteamWorkshopAddons/CampaignExtensionMod/preview.jpg"
+	"visibility"		"0"
+	"title"		"CampaignExtensionMod Alpha"
+	"description"		"This is a test release, please do not expect it to work.
+
+Install Instructions:
+Via steam workshop, the level should appear in the campaign menu, just after The Fall of Titan. 
+Github coming soon.
+
+HIGHLY RECOMMENDED: http://steamcommunity.com/sharedfiles/filedetails/?id=1281359114
+
+
+I wanna hear what you guys think of this! I am thinking I am gonna do a few of these, ideally each one with exciting new challenges. If anyone has some good ideas for some challenging levels, I would love to hear them!"
+	"changenote"		"Initial Release"
+}

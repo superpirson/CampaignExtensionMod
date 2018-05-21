@@ -1,0 +1,14 @@
+
+Level Silence The Rabble	Silence The Rabble
+Level Silence The Rabble Description
+	No doubt you have been watching the news, so you likely know what this is about.
+	Despite our recent successes in suppressing military responses across the system, a significant fleet of old vessels and improvised warships has been amassing around Luna. In addition, the ragtag group has managed to capture the station Luna Hub 4, and are currently arming themselves to defend it. This is unacceptable, obviously, and they need to be put in their place. We have limited resources around the area, so it is critical you take them out with minimal losses.
+	Time is also of the essence. The longer these fools hold that station, the weaker we will appear. At this point we might as well right off the station entirely in the name of expediency and a strong message. Do whatever you want to it. Vaporize it if necessary.
+	Make no mistake here, the rebels have seized a major lunar hub station, and are likely in possession of a large number of ships. In addition, our informant tells us the rebels will likely reactivate an old USTA gunship, the "Flying Anvil", that was in the process of being converted into a museum ship. It will be no match for modern missiles and high powered railguns, so engage it at a distance. With that said, it is very well armed for close range combat, and has thick steel armor, so beware.
+Level Silence The Rabble ShortDescription	Eliminate a rebellion orbiting Luna.
+
+Level19Start1	Listen, we don't really want any trouble. We are just trying to get the food rations we are owed. We will return the station after we are done. We are not pirates.
+Level19Combat1	Don't do this. The entire solar system is watching.
+Level19Failure	Dammit. I told you not to do this. We won't go quietly.
+Level19Success1	We surrender. We are disarming. Hold fire.
+

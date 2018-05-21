@@ -1,0 +1,157 @@
+Speaker Unsigned Direct Transmission
+Alliance					United Sol Trade Alliance
+
+Speaker Lunar Hub Emergency Channel
+Alliance					Republic of the Free People
+
+StarterFleet EarthDefenseFleet
+ShipTypes				Siloship
+CanCustomize			true
+CustomOrbit
+	Epoch_JulianYears					2000
+	SemiMajorAxis_km					9000
+	ArgumentOfPeriapsis_degrees		10
+	MeanAnomaly_degrees				260
+
+StarterFleet RabbleEnemyForce
+ShipTypes				Lunar Hub Station	Armed Small Methane Tanker	Armed Water Tanker	Old Gunship	Lunar Gunskiff	Laser Skiff
+CustomOrbit
+	Epoch_JulianYears					2000
+	SemiMajorAxis_km					4000
+	ArgumentOfPeriapsis_degrees		10
+	MeanAnomaly_degrees				260
+
+Level Silence The Rabble
+JulianYear				2258.9
+TimeLimit_JulianDays	6
+UnlockModuleDesign	true
+Location
+	MainBody			Earth
+PlayerAlliance			Republic of the Free People
+EnemyAlliance			United Sol Trade Alliance
+AdditionalAlliances	The Liberty Exchange	Nippon Prime	Iroquois Resurgence
+AI						Defensive
+IsADefendLevel			true
+Fleets
+	Earth	0	Republic of the Free People			null				EarthDefenseFleet
+	Luna		-1	United Sol Trade Alliance			null			RabbleEnemyForce
+
+Music				Deep Space
+Messages
+	Starting
+		Unsigned Direct Transmission	#Level19Start1
+	EnterCombat
+		Unsigned Direct Transmission	#Level19Combat1
+	MissionFailure
+		Unsigned Direct Transmission	#Level19Failure
+	MissionSuccess
+		Lunar Hub Emergency Channel	#Level19Success1
+Badges
+	TightDeltaVBudget		true
+	FleetCombat				true
+	TransferOrbits			true
+RecommendedReading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+StarterFleet ThirdDefenseFleet
+ShipTypes				Siloship	Large Methane Tanker	Large Methane Tanker
+CanCustomize			true
+
+StarterFleet ThirdDefenseFleet
+ShipTypes				Cargo Station
+
+StarterFleet RebellionFleet
+ShipTypes				Sentinel	Lunar Gunskiff	Laser Skiff
+
+StarterFleet SeriousThreat
+ShipTypes				Missile Trawler	Missile Trawler
+
+
+Level Rise of the Rebellion
+JulianYear				2261.2
+TimeLimit_JulianDays	365
+UnlockModuleDesign	true
+Location
+	MainBody				Sol
+	ViewingBody			Luna
+	FilteredBodies		Mars	Earth	Luna	Jupiter
+PlayerAlliance			Republic of the Free People
+EnemyAlliance			Rogue Faction
+AdditionalAlliances	The Liberty Exchange	Nippon Prime	Iroquois Resurgence
+AI						Aggresive
+IsADefendLevel			true
+Fleets
+	Luna	0	Republic of the Free People			null				ThirdDefenseFleet
+	Callisto		-1	Rogue Faction			null			RebellionFleet
+	Io		-1	Rogue Faction			null			SeriousThreat
+
+Music				Deep Space
+Messages
+	Starting
+		Unsigned Direct Transmission	#Level19Start1
+	EnterCombat
+		Unsigned Direct Transmission	#Level19Combat1
+	MissionFailure
+		Unsigned Direct Transmission	#Level19Failure
+	MissionSuccess
+		Lunar Hub Emergency Channel	#Level19Success1
+Badges
+	TightDeltaVBudget		true
+	FleetCombat				true
+	TransferOrbits			true
+RecommendedReading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Campaign Default Campaign
+MainMenuMusic		Solar Echoes
+LevelOrder
+	Distress Call at Luna
+	False Flag
+	Predatory Opportunism
+	A Small Diversion
+	Orbital Fallout
+	Lagrange Point Graveyard
+	The Interamnian Incident
+	Force Projection
+	Uranian Cargo Run
+	Retaking Ceres
+	Homecoming
+	Main Belt Extraction
+	Vesta Overkill
+	On the Surface of Giants
+	Solar Ties
+	Dusk Over Triton
+	The Jovian Lunar Tour
+	The Fall of Titan
+	Silence The Rabble
+	Rise of the Rebellion
+EndingLevels
+	Ending
+	Ending2
+	Ending3
+SandboxLevel		Sandbox
+ModPriority		0
